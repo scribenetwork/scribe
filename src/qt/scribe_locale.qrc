@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/scribe_bg.qm</file>
+        <file alias="de">locale/scribe_de.qm</file>
+        <file alias="en">locale/scribe_en.qm</file>
+        <file alias="es">locale/scribe_es.qm</file>
+        <file alias="fi">locale/scribe_fi.qm</file>
+        <file alias="fr">locale/scribe_fr.qm</file>
+        <file alias="it">locale/scribe_it.qm</file>
+        <file alias="ja">locale/scribe_ja.qm</file>
+        <file alias="pl">locale/scribe_pl.qm</file>
+        <file alias="pt">locale/scribe_pt.qm</file>
+        <file alias="ru">locale/scribe_ru.qm</file>
+        <file alias="sk">locale/scribe_sk.qm</file>
+        <file alias="sv">locale/scribe_sv.qm</file>
+        <file alias="vi">locale/scribe_vi.qm</file>
+        <file alias="zh_CN">locale/scribe_zh_CN.qm</file>
+        <file alias="zh_TW">locale/scribe_zh_TW.qm</file>
+    </qresource>
+</RCC>

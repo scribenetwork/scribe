@@ -1,0 +1,6 @@
+usr/local/bin/scribe-qt usr/bin
+share/pixmaps/scribe32.xpm usr/share/pixmaps
+share/pixmaps/scribe16.xpm usr/share/pixmaps
+share/pixmaps/scribe128.png usr/share/pixmaps
+debian/scribe-qt.desktop usr/share/applications
+debian/scribe-qt.protocol usr/share/kde4/services/
