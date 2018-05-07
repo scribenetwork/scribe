@@ -14,7 +14,7 @@
 </a>
 </p>
 <p align="center">
-  <a href="http://scribe.network">https://www.scribe.network</a> | <a href="http://explorer.scribe.network">Block Explorer</a> | <a href="https://ann.scribe.network">Announcement</a> | <a href="https://discord.scribe.network">Discord</a> | <a href="https://twitter.scribe.network">Twitter</a>
+  <a href="http://scribe.network">http://scribe.network</a> | <a href="http://explorer.scribe.network">Block Explorer</a> | <a href="https://ann.scribe.network">Announcement</a> | <a href="https://discord.scribe.network">Discord</a> | <a href="https://twitter.scribe.network">Twitter</a>
 </p>
 
 ## About Scribe
@@ -22,7 +22,7 @@
 SCRIBE offers highly secured, anonymous transactions across the world. SCRIBE supports Masternodes with a superb block reward. Features as Private Send and Instant Send make SCRIBE a future-oriented currency on the market. SCRIBE uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. Scribe Core is the name of the open source software which enables the use of this currency. Scribe Core is based on the newest [Dash](https://www.dash.org) codebase and is its own currency.
 
 For more information, as well as an immediately useable, binary version of
-the Scribe Core software, see https://www.scribe.network
+the Scribe Core software, see http://scribe.network
 
 ## Scribe Specifications
 
