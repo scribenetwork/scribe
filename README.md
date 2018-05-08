@@ -14,7 +14,7 @@
 </a>
 </p>
 <p align="center">
-  <a href="http://scribe.network">http://scribe.network</a> | <a href="http://explorer.scribe.network">Block Explorer</a> | <a href="http://ann.scribe.network">Announcement</a> | <a href="http://discord.scribe.network">Discord</a> | <a href="http://twitter.scribe.network">Twitter</a>
+  <a href="http://scribe.network">http://scribe.network</a> | <a href="http://explorer.scribe.network">Block Explorer</a> | <a href="http://ann.scribe.network">Announcement</a> | <a href="http://discord.scribe.network">Discord</a> | <a href="http://twitter.scribe.network">Twitter</a> | <a href="http://telegram.scribe.network">Telegram</a>
 </p>
 
 ## About Scribe
