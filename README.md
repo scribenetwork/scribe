@@ -6,15 +6,15 @@
 <a href="https://github.com/scribenetwork/scribe/releases" alt="GIT Releases">
 <img src="https://img.shields.io/github/downloads/scribe/scribe/total.svg"/>
 </a>
-<a href="https://discord.scribe.network" alt="Discord">
+<a href="https://discord.gg/EDKyu4D" alt="Discord">
 <img src="https://img.shields.io/discord/402827967111233546.svg"/>
   </a>
-<a href="https://twitter.scribe.network" alt="Twitter">
+<a href="https://twitter.com/scribenetwork" alt="Twitter">
 <img src="https://img.shields.io/twitter/follow/scribe_crypto.svg?style=social&label=Follow"/>
 </a>
 </p>
 <p align="center">
-  <a href="http://scribe.network">http://scribe.network</a> | <a href="http://explorer.scribe.network">Block Explorer</a> | <a href="http://ann.scribe.network">Announcement</a> | <a href="http://discord.scribe.network">Discord</a> | <a href="http://twitter.scribe.network">Twitter</a> | <a href="http://telegram.scribe.network">Telegram</a>
+  <a href="https://scribe.network">https://scribe.network</a> | <a href="https://explorer.scribe.network">Block Explorer</a> | <a href="https://bitcointalk.org/index.php?topic=3626152">Announcement</a> | <a href="https://discord.gg/EDKyu4D">Discord</a> | <a href="https://twitter.com/scribenetwork">Twitter</a> | <a href="https://t.me/scribenetwork">Telegram</a>
 </p>
 
 ## About Scribe
