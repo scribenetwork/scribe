@@ -17,6 +17,9 @@
   <a href="https://scribe.network">https://scribe.network</a> | <a href="https://explorer.scribe.network">Block Explorer</a> | <a href="https://bitcointalk.org/index.php?topic=3626152">Announcement</a> | <a href="https://discord.gg/EDKyu4D">Discord</a> | <a href="https://twitter.com/scribenetwork">Twitter</a> | <a href="https://t.me/scribenetwork">Telegram</a>
 </p>
 
+## Easy install via apt-get
+https://github.com/scribenetwork/scribenetwork.github.io/tree/master/ppa
+
 ## About Scribe
 
 SCRIBE offers highly secured, anonymous transactions across the world. SCRIBE supports Masternodes with a superb block reward. Features as Private Send and Instant Send make SCRIBE a future-oriented currency on the market. SCRIBE uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. Scribe Core is the name of the open source software which enables the use of this currency. Scribe Core is based on the newest [Dash](https://www.dash.org) codebase and is its own currency.
