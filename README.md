@@ -39,6 +39,20 @@ the Scribe Core software, see http://scribe.network
 | Estimated Supply | 32.7 Mio. |
 | Difficulty Retargeting | Every block |
 | Difficulty Algorithm | Dark Gravity Wave v3 | 
+| P2P-port | 8800 |
+| RPC-port | 8801 |
+
+## Chain params:
+```
+Mainnet:
+- P2PKH: 0x3c
+- P2SH: 0x7d
+- WIF: 0x6e
+- bip32 xpub: 0x0488B21E
+- bip32 xprv: 0x0488ADE4
+- coin type: 545 (https://github.com/satoshilabs/slips/blob/master/slip-0044.md#registered-coin-types)
+- p2p magic bytes: 0x4364fbcd
+```
 
 ## License
 
