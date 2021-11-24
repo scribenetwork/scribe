@@ -33,6 +33,8 @@ the Scribe Core software, see http://scribe.network
 | ------ | ------ |
 | PoW Algorithm | Lyra2REv2 |
 | Block Time Average | 90 seconds |
+| Block Mature | 30 Blocks |
+| Block Size | 2MB |
 | Block Reward | 8 SCRIBE |
 | Block Reward Distribution | 40% to Masternodes, 60% to Miners initially, ramping up to 65% Masternodes, 35% miners |
 | Masternode Collateral | 1000 SCRIBE |
@@ -53,6 +55,9 @@ Mainnet:
 - coin type: 545 (https://github.com/satoshilabs/slips/blob/master/slip-0044.md#registered-coin-types)
 - p2p magic bytes: 0x4364fbcd
 ```
+
+## Mnemonic Code Converter
+http://scribe.network/tools/bip39
 
 ## License
 
